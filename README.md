@@ -17,6 +17,6 @@ Este espacio va a estar dedicado para mi para subir proyectos , investigar , apr
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br/>
-<!-- ## Estadisticas Repositorio -->
+<!-- ## Estadisticas Repositorio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyPisoni&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabyPisoni&show_icons=true&theme=dark) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabyPisoni&show_icons=true&theme=dark)  -->
